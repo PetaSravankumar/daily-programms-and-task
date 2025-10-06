@@ -60,25 +60,25 @@
 #     print("")
 
 #8th programm
-n=7
-for i in range(1,n+1,1):
-    for j in range(1,i-1+1,1):
-        print(" ",end="")
-    for j in range(1,n-i+1+1,1):
-        print(j,end=" ")
-    print("")
+# n=7
+# for i in range(1,n+1,1):
+#     for j in range(1,i-1+1,1):
+#         print(" ",end="")
+#     for j in range(1,n-i+1+1,1):
+#         print(j,end=" ")
+#     print("")
     
 #9 th programm
 
-# n=7
-# a="A"
-# for i in range(1,n+1,1):
-#     for j in range(1,n-i+1,1):
-#         print(" ",end="")
-#     for j in range(1,i+1,1):
-#         c=chr(ord(a)+i-1)
-#         print(c,end=" ")
-#     print("")
+n=7
+a="A"
+for i in range(1,n+1,1):
+    for j in range(1,n-i+1,1):
+        print(" ",end="")
+    for j in range(1,i+1,1):
+        c=chr(ord(a)+i-1)
+        print(c,end=" ")
+    print("")
 
 #10 th programm
 
