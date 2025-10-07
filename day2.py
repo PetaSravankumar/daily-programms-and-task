@@ -1,10 +1,10 @@
 # 1st programm
 
-# s="sravan"
-# count=0
-# for i in s:
-#     count+=1
-# print(count)
+s="sravan"
+count=0
+for i in s:
+    count+=1
+print(count)
 
 #2nd programm
 s1="sravan"
