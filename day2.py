@@ -26,15 +26,15 @@
 # if same==True:
 #     print("equal")
 # else:
-#     print("not equal")
+    print("not equal")
 
 #3rd progeamm
 
-s=input("enter the string :")
-rev=""
-for i in range(len(s)-1,-1,-1):
-    rev=rev+s[i]
-print(rev)
+# s=input("enter the string :")
+# rev=""
+# for i in range(len(s)-1,-1,-1):
+#     rev=rev+s[i]
+# print(rev)
 
 
 #4th programm
