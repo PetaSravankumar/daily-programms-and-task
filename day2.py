@@ -1,4 +1,4 @@
-# # 1st programm
+# 1st programm
 
 # s="sravan"
 # count=0
@@ -6,7 +6,7 @@
 #     count+=1
 # print(count)
 
-# #2nd programm
+#2nd programm
 # s1="sravan"
 # s2="sraven"
 # c1=0
@@ -28,33 +28,33 @@
 # else:
 #     print("not equal")
 
-# #3rd progeamm
+#3rd progeamm
 
-# # s=input("enter the string :")
-# # rev=""
-# # for i in range(len(s)-1,-1,-1):
-# #     rev=rev+s[i]
-# # print(rev)
+# s=input("enter the string :")
+# rev=""
+# for i in range(len(s)-1,-1,-1):
+#     rev=rev+s[i]
+# print(rev)
 
 
-# #4th programm
+#4th programm
 
-# # s=input("enter the string :")
-# # rev=""
-# # for i in range(len(s)-1,-1,-1):
-# #     rev=rev+s[i]
-# # if rev==s:
-# #     print("palindrom")
-# # else:
-# #     print("not a palindrom")
+# s=input("enter the string :")
+# rev=""
+# for i in range(len(s)-1,-1,-1):
+#     rev=rev+s[i]
+# if rev==s:
+#     print("palindrom")
+# else:
+#     print("not a palindrom")
 
-# # 5th programm
+# 5th programm
 
-# # s=input("enter the string :")
-# # s1=""
-# # count=0
-# # s1=s
-# # for i in s1:
-# #     if i==" ":
-# #         count+=1
-# # print(count+1)
+# s=input("enter the string :")
+# s1=""
+# count=0
+# s1=s
+# for i in s1:
+#     if i==" ":
+#         count+=1
+# print(count+1)
