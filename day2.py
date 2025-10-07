@@ -30,10 +30,10 @@
 
 #3rd progeamm
 
-# s=input("enter the string :")
-# rev=""
-# for i in range(len(s)-1,-1,-1):
-#     rev=rev+s[i]
+s=input("enter the string :")
+rev=""
+for i in range(len(s)-1,-1,-1):
+    rev=rev+s[i]
 print(rev)
 
 
