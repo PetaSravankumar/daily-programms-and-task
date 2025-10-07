@@ -34,19 +34,19 @@
 # rev=""
 # for i in range(len(s)-1,-1,-1):
 #     rev=rev+s[i]
-# print(rev)
+print(rev)
 
 
 #4th programm
 
-s=input("enter the string :")
-rev=""
-for i in range(len(s)-1,-1,-1):
-    rev=rev+s[i]
-if rev==s:
-    print("palindrom")
-else:
-    print("not a palindrom")
+# s=input("enter the string :")
+# rev=""
+# for i in range(len(s)-1,-1,-1):
+#     rev=rev+s[i]
+# if rev==s:
+#     print("palindrom")
+# else:
+#     print("not a palindrom")
 
 # 5th programm
 
