@@ -39,22 +39,22 @@
 
 #4th programm
 
-# s=input("enter the string :")
-# rev=""
-# for i in range(len(s)-1,-1,-1):
-#     rev=rev+s[i]
-# if rev==s:
-#     print("palindrom")
-# else:
-#     print("not a palindrom")
+s=input("enter the string :")
+rev=""
+for i in range(len(s)-1,-1,-1):
+    rev=rev+s[i]
+if rev==s:
+    print("palindrom")
+else:
+    print("not a palindrom")
 
 # 5th programm
 
-s=input("enter the string :")
-s1=""
-count=0
-s1=s
-for i in s1:
-    if i==" ":
-        count+=1
-print(count+1)
+# s=input("enter the string :")
+# s1=""
+# count=0
+# s1=s
+# for i in s1:
+#     if i==" ":
+#         count+=1
+# print(count+1)
