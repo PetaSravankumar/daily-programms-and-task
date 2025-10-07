@@ -23,9 +23,9 @@
 #         if s1[i]!=s2[i]:
 #             same=False
 #             break
-# if same==True:
-#     print("equal")
-# else:
+if same==True:
+    print("equal")
+else:
     print("not equal")
 
 #3rd progeamm
